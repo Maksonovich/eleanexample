@@ -67,7 +67,7 @@ const HeaderStatic = () => {
                       <li><Link to='/home'>ПОКУПАТЕЛЯМ</Link></li>
                       <li><Link to='/Deliver'>О БРЕНДЕ</Link></li>
                       <li><Link to='/ShowRoom'>ШОУРУМ</Link></li>
-                      <li><Link to='/home'>КОНТАКТЫ</Link></li>
+                      <li><Link to='/Contact'>КОНТАКТЫ</Link></li>
                     </ul>
                 </li>
                 <li>
