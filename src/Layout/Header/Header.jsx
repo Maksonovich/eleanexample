@@ -85,7 +85,7 @@ const Header = () => {
             <li><Link to='/home'>ПОКУПАТЕЛЯМ</Link></li>
             <li><Link to='/Deliver'>О БРЕНДЕ</Link></li>
             <li><Link to='/ShowRoom'>ШОУРУМ</Link></li>
-            <li><Link to='/Contacts'>КОНТАКТЫ</Link></li>
+            <li><Link to='/Contact'>КОНТАКТЫ</Link></li>
           </ul>
         </nav>
       </div>
