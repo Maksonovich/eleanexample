@@ -31,7 +31,7 @@ const Contact = () => {
 
           </div>
           <div className="numberfirstcontact">
-
+  
           </div>
           <div className="numberfirstcontact">
 
